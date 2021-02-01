@@ -4,7 +4,7 @@ My name is Chrish Dunne, currently operating as [Modular Everything](https://git
 
 I have upcoming availability in **May/June**
 
-Previously Product Designer ✍🏻 at Sky Bet and Creative Lead 👨🏻‍🎨 at Design by Weather, swapping my time between digital design and development.
+Previously **Product Designer ✍🏻  at Sky Bet** and **Creative Lead 👨🏻‍🎨  at Design by Weather**, swapping my time between digital design and development.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Typescript and Spline
