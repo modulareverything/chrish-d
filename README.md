@@ -2,7 +2,7 @@
 
 My name is Chrish Dunne, currently operating as [Modular Everything](https://github.com/modular-everything) working as a creative developer.
 
-I have upcoming availability in **May/June**
+I have upcoming availability in **June/July**
 
 Previously **Product Designer** at _Sky Bet_ and **Creative Lead** at _Design by Weather_, swapping my time between digital design and development.
 
