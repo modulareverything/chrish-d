@@ -11,3 +11,7 @@ Previously **Product Designer** at _Sky Bet_ and **Creative Lead** at _Design by
 - 💬  Ask me about records, beer, coffee...
 - 📫  Contact me on: hey@chrish.design
 - 🎧  I regularly record mixes and upload them to [Mixcloud as @modg](https://mixcloud.com/modg)
+
+---
+
+![Chrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrish-d&show_icons=true&theme=vue&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrish-d&theme=vue)
