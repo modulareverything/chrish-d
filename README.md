@@ -14,4 +14,6 @@ Previously **Product Designer** at _Sky Bet_ and **Creative Lead** at _Design by
 
 ---
 
-![Chrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrish-d&show_icons=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrish-d)
+![Chrish's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrish-d&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrish-d&count_private=true)
