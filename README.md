@@ -7,7 +7,7 @@ Previously **Product Designer** at _Sky Bet_ and **Creative Lead** at _Design by
 - 🔭  I work with React, NextJS, Sanity CMS and GreenSock.
 - 💬  Ask me about records, beer, coffee...
 - 📫  Contact me on: yo@modular-everything.com
-- 🎧  I regularly record mixes and upload them to [Mixcloud as @modg](https://mixcloud.com/modg)
+- 🎧  I regularly record mixes and upload them to [Mixcloud as @modgy](https://mixcloud.com/modgy)
 
 ---
 
