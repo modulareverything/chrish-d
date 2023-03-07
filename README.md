@@ -4,7 +4,7 @@ My name is Chrish Dunne, currently operating as [Modular Everything](https://git
 
 Previously **Product Designer** at _Sky Bet_ and **Creative Lead** at _Design by Weather_, swapping my time between digital design and development.
 
-- 🔭  I work with React, NextJS, Sanity CMS and GreenSock.
+- 🔭  I work with React, NextJS, Sanity, Storyblok and GreenSock.
 - 💬  Ask me about records, beer, coffee...
 - 📫  Contact me on: yo@modular-everything.com
 - 🎧  I regularly record mixes and upload them to [Mixcloud as @modgy](https://mixcloud.com/modgy)
